@@ -83,4 +83,4 @@ Apps I have built and shipped across multiple domains:
 
 ---
 
-*Open to senior Flutter / mobile engineering roles in the UAE and remotely.*<img width="1440" height="1708" alt="image" src="https://github.com/user-attachments/assets/9b8217f6-c5bd-49fd-85bc-8c077e6d195a" />
+*Open to senior Flutter / mobile engineering roles in the UAE and remotely.*<img width="1440" height="1708" alt="image" src="" />
