@@ -48,7 +48,7 @@ AI-powered gift recommendation Flutter app built with clean architecture, BLoC s
 Browser-based tool that generates Entity/Model class pairs for Flutter clean architecture projects. Deployed on GitHub Pages.
 `HTML,CSS & JS` `Clean Architecture` `GitHub Pages`
 
-### 📱 [Dynamic Flutter UI](https://github.com/mustafahsalama/todoapp-main)
+### 📱 [To Do App](https://github.com/mustafahsalama/todoapp-main)
 A Flutter to-do app built with BLoC pattern and local Hive storage. 
 
 ---
