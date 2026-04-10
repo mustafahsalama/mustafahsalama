@@ -60,11 +60,11 @@ Apps I have built and shipped across multiple domains:
 
 | App | Domain | Stack |
 |-----|--------|-------|
-| Rabeh / JB APP / AHLINA | Banking | Flutter, Dart |
+| Rabeh / JB APP / AHLINA | Banking | Front:Flutter, Dart. Backend:JAVA Spring Boot |
 | SIRAJ / TASHEEL | Education | Flutter, Dart |
-| CITY PROPERTIES / AMLAKI | Property Management | Flutter, PHP, Oracle |
-| ElNILEIN | Insurance | Flutter, Dart |
-| JOB VISIT | Field Service | Flutter, Java JAX-RS |
+| CITY PROPERTIES / AMLAKI | Property Management | Front: Flutter,Dart. Backend: Java EE, Oracle |
+| ElNILEIN | Insurance | Front: Flutter, Dart. Backend: C#|
+| JOB VISIT | Field Service | Front: Flutter,Dart. Backend: Java EE |
 
 ---
 
