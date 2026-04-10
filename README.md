@@ -49,7 +49,7 @@ Browser-based tool that generates Entity/Model class pairs for Flutter clean arc
 `HTML,CSS & JS` `Clean Architecture` `GitHub Pages`
 
 ### 📱 [To Do App](https://github.com/mustafahsalama/todoapp-main)
-A Flutter to-do app built with BLoC pattern and local Hive storage. 
+ A Flutter to-do app with local Hive storage, BLoC state management, and a clean Material 3 UI.
 
 ---
 
