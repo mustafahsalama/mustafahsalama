@@ -40,7 +40,7 @@ Senior mobile engineer with 5+ years building production apps across banking, pr
 
 ## 🚀 Featured Projects
 
-### 🎁 [Gift Genie](https://github.com/mustafahsalama/gift-genie)
+### 🎁 [Gift Genie](https://github.com/mustafahsalama/gift_genie)
 AI-powered gift recommendation Flutter app built with clean architecture, BLoC state management, and a glassmorphic UI.
 `Flutter` `Dart` `BLoC` `Clean Architecture` `AI Integration`
 
