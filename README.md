@@ -68,13 +68,6 @@ Apps I have built and shipped across multiple domains:
 
 ---
 
-## 📊 GitHub Stats
-
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafahsalama&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahsalama&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 🌱 Currently Exploring
 
 - Advanced Flutter performance optimisation
