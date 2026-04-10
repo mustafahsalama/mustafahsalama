@@ -46,11 +46,10 @@ AI-powered gift recommendation Flutter app built with clean architecture, BLoC s
 
 ### 🔄 [JSON to Dart Converter](https://github.com/mustafahsalama/json-to-flutter-converter)
 Browser-based tool that generates Entity/Model class pairs for Flutter clean architecture projects. Deployed on GitHub Pages.
-`HTML` `Clean Architecture` `GitHub Pages`
+`HTML,CSS & JS` `Clean Architecture` `GitHub Pages`
 
-### 📱 [Dynamic Flutter UI](https://github.com/mustafahsalama/dynamic-flutter-ui)
-JSON-driven UI rendering system with tab navigation, BLoC integration, and a Hive-based dynamic color theme engine.
-`Flutter` `BLoC` `Hive` `JSON`
+### 📱 [Dynamic Flutter UI](https://github.com/mustafahsalama/todoapp-main)
+A Flutter to-do app built with BLoC pattern and local Hive storage. 
 
 ---
 
